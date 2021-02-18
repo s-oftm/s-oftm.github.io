@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>pEn Idea Scale</title>
+  <title>作品展示</title>
   
   <subtitle>Providing you the fittest product ideas and scaling with your horizon</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-18T05:37:54.724Z</updated>
+  <updated>2021-02-18T04:25:10.670Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,19 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>cv</title>
-    <link href="http://example.com/2021/02/18/cv/"/>
-    <id>http://example.com/2021/02/18/cv/</id>
-    <published>2021-02-18T05:37:54.000Z</published>
-    <updated>2021-02-18T05:37:54.724Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>BRD商业需求</title>
